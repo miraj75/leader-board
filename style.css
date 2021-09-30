@@ -1,0 +1,53 @@
+body {
+  background-color: white;
+}
+.container {
+}
+
+.brand-logo {
+  width: 40px;
+}
+.player img {
+  width: 56px;
+}
+.player-paragraph {
+  margin-left: 20px;
+  margin-top: 40px;
+}
+.container-1 {
+  margin-top: 40px;
+  margin-bottom: 40px;
+  padding-bottom: 20px;
+  background-color: #ffffff;
+}
+.top-player img {
+  margin-top: 30px;
+}
+.ul-size {
+  margin-left: 20px;
+}
+.top-player {
+  background-color: white;
+  border-radius: 5px;
+}
+.blog img {
+  width: 177px;
+}
+.blog-heading {
+  margin-top: 40px;
+  margin-bottom: 20px;
+}
+.blog-h4 {
+  margin-left: 10px;
+  margin-top: 50px;
+}
+.blog-p {
+  margin-top: 110px;
+  margin-left: -185px;
+}
+footer {
+  background-color: ;
+}
+.courses-pic img {
+  width: 224.38px;
+}
